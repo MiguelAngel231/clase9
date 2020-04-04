@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+.tipo1{
+	background-color:blueviolet;
+	border-style: double;
+	margin-top: auto;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+	padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+}
+.tipo2{
+	background-color:crimson;
+	border-style:solid;
+	margin-top: 30px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+	padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+.tipo3{
+	background-color:chocolate;
+	border-style:dotted;
+	margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+	padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
